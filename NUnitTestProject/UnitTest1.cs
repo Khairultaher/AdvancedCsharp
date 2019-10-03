@@ -163,6 +163,7 @@ namespace NUnitTestProject
 
             Console.WriteLine(minFinal.ToString() + " " + maxFinal.ToString());
 
+            //Check before commit
             Assert.AreEqual(minFinal, 20);
             Assert.AreEqual(maxFinal, 20);
         }
