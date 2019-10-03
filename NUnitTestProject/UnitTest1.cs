@@ -1,6 +1,7 @@
 using NUnit.Framework;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace NUnitTestProject
@@ -114,13 +115,13 @@ namespace NUnitTestProject
             StringBuilder sb = new StringBuilder();
             for (int i = 1; i <= n; i++)
             {
-                var a = string.Empty.PadRight(n-i, ' ') + string.Empty.PadRight(i, '#');
+                var a = string.Empty.PadRight(n - i, ' ') + string.Empty.PadRight(i, '#');
                 sb.Append(a);
-                if (i<n)
+                if (i < n)
                 {
                     sb.Append(Environment.NewLine);
                 }
-                
+
             }
             Console.WriteLine(sb);
         }
@@ -129,7 +130,7 @@ namespace NUnitTestProject
         [Test]
         public void MiniMaxSum()
         {
-            int[] arr = new int[] { 5, 5 ,5, 5 ,5 };
+            int[] arr = new int[] { 5, 5, 5, 5, 5 };
             int length = arr.Length;
             Int64 maxFinal = 0;
             Int64 minFinal = 0;
@@ -142,7 +143,7 @@ namespace NUnitTestProject
                     if (i == j)
                     {
                         continue;
-                    }                     
+                    }
                     max += arr[j];
                     min += arr[j];
                 }
@@ -158,7 +159,7 @@ namespace NUnitTestProject
                 if (min < minFinal)
                 {
                     minFinal = min;
-                }                    
+                }
             }
 
             Console.WriteLine(minFinal.ToString() + " " + maxFinal.ToString());
@@ -166,6 +167,59 @@ namespace NUnitTestProject
             //Check before commit
             Assert.AreEqual(minFinal, 20);
             Assert.AreEqual(maxFinal, 20);
+        }
+
+        [Test]
+        public void BirthdayCakeCandles()
+        {
+            int[] ar = new int[] { 3, 2, 1, 3 };
+
+            var arr = ar.OrderByDescending(x => x).ToArray();
+
+            int length = arr.Length;
+            int maxGlobal = arr[0];
+            int maxCount = 0;
+            for (int i = 0; i < length; i++)
+            {
+                int maxLocal = arr[i];
+                if (maxGlobal == maxLocal)
+                {
+                    maxGlobal = arr[i];
+                    maxCount++;
+                }
+            }
+
+            Console.WriteLine(maxCount);
+            Assert.AreEqual(maxCount, 2);
+
+        }
+
+        [Test]
+        public void TimeConversion()
+        {
+            string s = "07:05:45PM";
+            s = Convert.ToDateTime(s).ToString("HH:mm:ss");
+            Assert.AreEqual(s, "19:05:45");
+        }
+
+        [Test]
+        public void GradingStudents()
+        {
+            List<int> grades = new List<int> { 4,73,67,38,33};
+
+            for (int i = 0; i < grades.Count(); i++)
+            {
+                if (grades[i] >= 38)
+                {
+                    if (grades[i] + (5 - grades[i] % 5) - grades[i] < 3)
+                    {
+                        grades[i] = (grades[i] + (5 - grades[i] % 5));
+                    }
+                        
+                }
+            }
+
+            Assert.AreEqual(1,1);
         }
     }
 }
