@@ -107,7 +107,7 @@ namespace NUnitTestProject
 
         // Complete the staircase function below.
         [Test]
-        public void staircase()
+        public void Staircase()
         {
             int n = 6;
 
@@ -126,6 +126,46 @@ namespace NUnitTestProject
         }
 
 
+        [Test]
+        public void MiniMaxSum()
+        {
+            int[] arr = new int[] { 5, 5 ,5, 5 ,5 };
+            int length = arr.Length;
+            Int64 maxFinal = 0;
+            Int64 minFinal = 0;
+            for (int i = 0; i < length; i++)
+            {
+                Int64 max = 0;
+                Int64 min = 0;
+                for (int j = 0; j < length; j++)
+                {
+                    if (i == j)
+                    {
+                        continue;
+                    }                     
+                    max += arr[j];
+                    min += arr[j];
+                }
+                if (maxFinal == 0 && minFinal == 0)
+                {
+                    maxFinal = max;
+                    minFinal = min;
+                }
+                if (maxFinal < max)
+                {
+                    maxFinal = max;
+                }
+                if (min < minFinal)
+                {
+                    minFinal = min;
+                }                    
+            }
 
+            Console.WriteLine(minFinal.ToString() + " " + maxFinal.ToString());
+
+            //Check before commit
+            Assert.AreEqual(minFinal, 20);
+            Assert.AreEqual(maxFinal, 20);
+        }
     }
 }

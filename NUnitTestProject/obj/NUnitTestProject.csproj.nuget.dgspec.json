@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Domain\\Desktop\\OTHERS\\NUnitTestProject\\NUnitTestProject\\NUnitTestProject.csproj": {}
+    "G:\\PRCTICE\\Problem-Solving\\NUnitTestProject\\NUnitTestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Domain\\Desktop\\OTHERS\\NUnitTestProject\\NUnitTestProject\\NUnitTestProject.csproj": {
+    "G:\\PRCTICE\\Problem-Solving\\NUnitTestProject\\NUnitTestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Domain\\Desktop\\OTHERS\\NUnitTestProject\\NUnitTestProject\\NUnitTestProject.csproj",
+        "projectUniqueName": "G:\\PRCTICE\\Problem-Solving\\NUnitTestProject\\NUnitTestProject.csproj",
         "projectName": "NUnitTestProject",
-        "projectPath": "C:\\Users\\Domain\\Desktop\\OTHERS\\NUnitTestProject\\NUnitTestProject\\NUnitTestProject.csproj",
-        "packagesPath": "C:\\Users\\Domain\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Domain\\Desktop\\OTHERS\\NUnitTestProject\\NUnitTestProject\\obj\\",
+        "projectPath": "G:\\PRCTICE\\Problem-Solving\\NUnitTestProject\\NUnitTestProject.csproj",
+        "packagesPath": "C:\\Users\\Kairul\\.nuget\\packages\\",
+        "outputPath": "G:\\PRCTICE\\Problem-Solving\\NUnitTestProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Domain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kairul\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100-preview9-014004\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
