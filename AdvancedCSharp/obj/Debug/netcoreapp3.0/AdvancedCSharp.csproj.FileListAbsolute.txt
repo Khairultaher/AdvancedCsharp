@@ -1,0 +1,11 @@
+G:\PRCTICE\Problem-Solving\AdvancedCSharp\bin\Debug\netcoreapp3.0\AdvancedCSharp.exe
+G:\PRCTICE\Problem-Solving\AdvancedCSharp\bin\Debug\netcoreapp3.0\AdvancedCSharp.deps.json
+G:\PRCTICE\Problem-Solving\AdvancedCSharp\bin\Debug\netcoreapp3.0\AdvancedCSharp.runtimeconfig.json
+G:\PRCTICE\Problem-Solving\AdvancedCSharp\bin\Debug\netcoreapp3.0\AdvancedCSharp.runtimeconfig.dev.json
+G:\PRCTICE\Problem-Solving\AdvancedCSharp\bin\Debug\netcoreapp3.0\AdvancedCSharp.dll
+G:\PRCTICE\Problem-Solving\AdvancedCSharp\bin\Debug\netcoreapp3.0\AdvancedCSharp.pdb
+G:\PRCTICE\Problem-Solving\AdvancedCSharp\obj\Debug\netcoreapp3.0\AdvancedCSharp.csprojAssemblyReference.cache
+G:\PRCTICE\Problem-Solving\AdvancedCSharp\obj\Debug\netcoreapp3.0\AdvancedCSharp.AssemblyInfoInputs.cache
+G:\PRCTICE\Problem-Solving\AdvancedCSharp\obj\Debug\netcoreapp3.0\AdvancedCSharp.AssemblyInfo.cs
+G:\PRCTICE\Problem-Solving\AdvancedCSharp\obj\Debug\netcoreapp3.0\AdvancedCSharp.dll
+G:\PRCTICE\Problem-Solving\AdvancedCSharp\obj\Debug\netcoreapp3.0\AdvancedCSharp.pdb
