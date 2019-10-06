@@ -205,7 +205,7 @@ namespace NUnitTestProject
         [Test]
         public void GradingStudents()
         {
-            List<int> grades = new List<int> { 4,73,67,38,33};
+            List<int> grades = new List<int> { 4, 73, 67, 38, 33 };
 
             for (int i = 0; i < grades.Count(); i++)
             {
@@ -215,11 +215,76 @@ namespace NUnitTestProject
                     {
                         grades[i] = (grades[i] + (5 - grades[i] % 5));
                     }
-                        
+
                 }
             }
 
-            Assert.AreEqual(1,1);
+            Assert.AreEqual(1, 1);
         }
-    }
+
+        [Test]
+        // Complete the countApplesAndOranges function below.
+        public void CountApplesAndOranges()
+        {
+            /*
+                2 3
+                1 5
+                1 1
+                2
+                -2
+              
+             */
+            int s = 2; int t = 3; int a = 1; int b = 5;
+            int[] apples = new int[] { 2 };
+            int[] oranges = new int[] { -2 };
+
+            int m = 0;
+            int n = 0;
+
+            foreach (var item in apples)
+            {
+                if (a + (item) >= s && a + (item) <= t)
+                {
+                    m++;
+                }
+            }
+
+            foreach (var item in oranges)
+            {
+                if (b + (item) >= s && b + (item) <= t)
+                {
+                    n++;
+                }
+            }
+
+            Console.WriteLine(m);
+            Console.WriteLine(n);
+
+            Assert.AreEqual(1, m);
+            Assert.AreEqual(1, n);
+        }
+
+        [Test]
+        // Complete the kangaroo function below.
+        public void kangaroo()
+        {
+            //0 3 4 2
+            int x1 = 0; int v1 = 3; int x2 = 4; int v2 = 2;
+            string yesNo = "NO";
+
+            for (int i = 0; i < 10000; i++)
+            {
+                x1 += v1;
+                x2 += v2;
+
+                if(x1 == x2)
+                {
+                    yesNo = "YES";
+                    break;
+                }
+            }
+            //return yesNo;
+            Assert.AreEqual("NO", yesNo);
+        }
+    } 
 }
