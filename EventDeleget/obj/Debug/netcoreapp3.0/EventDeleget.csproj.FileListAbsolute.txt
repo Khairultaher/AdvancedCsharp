@@ -1,0 +1,11 @@
+G:\PRCTICE\Problem-Solving\EventDeleget\bin\Debug\netcoreapp3.0\EventDeleget.exe
+G:\PRCTICE\Problem-Solving\EventDeleget\bin\Debug\netcoreapp3.0\EventDeleget.deps.json
+G:\PRCTICE\Problem-Solving\EventDeleget\bin\Debug\netcoreapp3.0\EventDeleget.runtimeconfig.json
+G:\PRCTICE\Problem-Solving\EventDeleget\bin\Debug\netcoreapp3.0\EventDeleget.runtimeconfig.dev.json
+G:\PRCTICE\Problem-Solving\EventDeleget\bin\Debug\netcoreapp3.0\EventDeleget.dll
+G:\PRCTICE\Problem-Solving\EventDeleget\bin\Debug\netcoreapp3.0\EventDeleget.pdb
+G:\PRCTICE\Problem-Solving\EventDeleget\obj\Debug\netcoreapp3.0\EventDeleget.csprojAssemblyReference.cache
+G:\PRCTICE\Problem-Solving\EventDeleget\obj\Debug\netcoreapp3.0\EventDeleget.AssemblyInfoInputs.cache
+G:\PRCTICE\Problem-Solving\EventDeleget\obj\Debug\netcoreapp3.0\EventDeleget.AssemblyInfo.cs
+G:\PRCTICE\Problem-Solving\EventDeleget\obj\Debug\netcoreapp3.0\EventDeleget.dll
+G:\PRCTICE\Problem-Solving\EventDeleget\obj\Debug\netcoreapp3.0\EventDeleget.pdb

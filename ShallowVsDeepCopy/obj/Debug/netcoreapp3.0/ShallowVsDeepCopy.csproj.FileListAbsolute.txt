@@ -1,0 +1,11 @@
+G:\PRCTICE\Problem-Solving\ShallowVsDeepCopy\bin\Debug\netcoreapp3.0\ShallowVsDeepCopy.exe
+G:\PRCTICE\Problem-Solving\ShallowVsDeepCopy\bin\Debug\netcoreapp3.0\ShallowVsDeepCopy.deps.json
+G:\PRCTICE\Problem-Solving\ShallowVsDeepCopy\bin\Debug\netcoreapp3.0\ShallowVsDeepCopy.runtimeconfig.json
+G:\PRCTICE\Problem-Solving\ShallowVsDeepCopy\bin\Debug\netcoreapp3.0\ShallowVsDeepCopy.runtimeconfig.dev.json
+G:\PRCTICE\Problem-Solving\ShallowVsDeepCopy\bin\Debug\netcoreapp3.0\ShallowVsDeepCopy.dll
+G:\PRCTICE\Problem-Solving\ShallowVsDeepCopy\bin\Debug\netcoreapp3.0\ShallowVsDeepCopy.pdb
+G:\PRCTICE\Problem-Solving\ShallowVsDeepCopy\obj\Debug\netcoreapp3.0\ShallowVsDeepCopy.csprojAssemblyReference.cache
+G:\PRCTICE\Problem-Solving\ShallowVsDeepCopy\obj\Debug\netcoreapp3.0\ShallowVsDeepCopy.AssemblyInfoInputs.cache
+G:\PRCTICE\Problem-Solving\ShallowVsDeepCopy\obj\Debug\netcoreapp3.0\ShallowVsDeepCopy.AssemblyInfo.cs
+G:\PRCTICE\Problem-Solving\ShallowVsDeepCopy\obj\Debug\netcoreapp3.0\ShallowVsDeepCopy.dll
+G:\PRCTICE\Problem-Solving\ShallowVsDeepCopy\obj\Debug\netcoreapp3.0\ShallowVsDeepCopy.pdb

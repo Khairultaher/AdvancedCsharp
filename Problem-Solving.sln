@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.29230.61
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NUnitTestProject", "NUnitTestProject\NUnitTestProject.csproj", "{CBE67E24-7227-4207-B653-2EF4476BFD8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedCSharp", "AdvancedCSharp\AdvancedCSharp.csproj", "{E167A1D6-A4A6-4DD7-ADFF-31FC79610917}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegetActionFunc", "AdvancedCSharp\DelegetActionFunc.csproj", "{E167A1D6-A4A6-4DD7-ADFF-31FC79610917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventDeleget", "EventDeleget\EventDeleget.csproj", "{5BEB78AB-EEAF-4E7A-ACD7-7C94C5E0B179}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShallowVsDeepCopy", "ShallowVsDeepCopy\ShallowVsDeepCopy.csproj", "{73F381F8-F077-4CA4-BFEC-9444EA02CC43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{E167A1D6-A4A6-4DD7-ADFF-31FC79610917}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E167A1D6-A4A6-4DD7-ADFF-31FC79610917}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E167A1D6-A4A6-4DD7-ADFF-31FC79610917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BEB78AB-EEAF-4E7A-ACD7-7C94C5E0B179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BEB78AB-EEAF-4E7A-ACD7-7C94C5E0B179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BEB78AB-EEAF-4E7A-ACD7-7C94C5E0B179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BEB78AB-EEAF-4E7A-ACD7-7C94C5E0B179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73F381F8-F077-4CA4-BFEC-9444EA02CC43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F381F8-F077-4CA4-BFEC-9444EA02CC43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F381F8-F077-4CA4-BFEC-9444EA02CC43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F381F8-F077-4CA4-BFEC-9444EA02CC43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
