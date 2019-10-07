@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\PRCTICE\\Problem-Solving\\AdvancedCSharp\\DelegetActionFunc.csproj",
+      "projectUniqueName": "G:\\PRCTICE\\Problem-Solving\\DelegetActionFunc\\DelegetActionFunc.csproj",
       "projectName": "DelegetActionFunc",
-      "projectPath": "G:\\PRCTICE\\Problem-Solving\\AdvancedCSharp\\DelegetActionFunc.csproj",
+      "projectPath": "G:\\PRCTICE\\Problem-Solving\\DelegetActionFunc\\DelegetActionFunc.csproj",
       "packagesPath": "C:\\Users\\Kairul\\.nuget\\packages\\",
-      "outputPath": "G:\\PRCTICE\\Problem-Solving\\AdvancedCSharp\\obj\\",
+      "outputPath": "G:\\PRCTICE\\Problem-Solving\\DelegetActionFunc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

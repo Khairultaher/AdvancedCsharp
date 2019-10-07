@@ -71,7 +71,7 @@ namespace DelegetActionFunc
         public delegate void CallBackMe(); 
         public void LongRunningFunction(CallBackMe callBackMe)
         {
-            // Wait here ......
+            // Wait here ..........
             Console.WriteLine("I am Started just now !");
             Thread.Sleep(500);
             callBackMe();

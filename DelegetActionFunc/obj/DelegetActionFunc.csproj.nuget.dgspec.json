@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\PRCTICE\\Problem-Solving\\AdvancedCSharp\\AdvancedCSharp.csproj": {}
+    "G:\\PRCTICE\\Problem-Solving\\DelegetActionFunc\\DelegetActionFunc.csproj": {}
   },
   "projects": {
-    "G:\\PRCTICE\\Problem-Solving\\AdvancedCSharp\\AdvancedCSharp.csproj": {
+    "G:\\PRCTICE\\Problem-Solving\\DelegetActionFunc\\DelegetActionFunc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\PRCTICE\\Problem-Solving\\AdvancedCSharp\\AdvancedCSharp.csproj",
-        "projectName": "AdvancedCSharp",
-        "projectPath": "G:\\PRCTICE\\Problem-Solving\\AdvancedCSharp\\AdvancedCSharp.csproj",
+        "projectUniqueName": "G:\\PRCTICE\\Problem-Solving\\DelegetActionFunc\\DelegetActionFunc.csproj",
+        "projectName": "DelegetActionFunc",
+        "projectPath": "G:\\PRCTICE\\Problem-Solving\\DelegetActionFunc\\DelegetActionFunc.csproj",
         "packagesPath": "C:\\Users\\Kairul\\.nuget\\packages\\",
-        "outputPath": "G:\\PRCTICE\\Problem-Solving\\AdvancedCSharp\\obj\\",
+        "outputPath": "G:\\PRCTICE\\Problem-Solving\\DelegetActionFunc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

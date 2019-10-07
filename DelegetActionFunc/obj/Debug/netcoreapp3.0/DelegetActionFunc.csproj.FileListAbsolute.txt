@@ -1,0 +1,10 @@
+G:\PRCTICE\Problem-Solving\DelegetActionFunc\bin\Debug\netcoreapp3.0\DelegetActionFunc.exe
+G:\PRCTICE\Problem-Solving\DelegetActionFunc\bin\Debug\netcoreapp3.0\DelegetActionFunc.deps.json
+G:\PRCTICE\Problem-Solving\DelegetActionFunc\bin\Debug\netcoreapp3.0\DelegetActionFunc.runtimeconfig.json
+G:\PRCTICE\Problem-Solving\DelegetActionFunc\bin\Debug\netcoreapp3.0\DelegetActionFunc.runtimeconfig.dev.json
+G:\PRCTICE\Problem-Solving\DelegetActionFunc\bin\Debug\netcoreapp3.0\DelegetActionFunc.dll
+G:\PRCTICE\Problem-Solving\DelegetActionFunc\bin\Debug\netcoreapp3.0\DelegetActionFunc.pdb
+G:\PRCTICE\Problem-Solving\DelegetActionFunc\obj\Debug\netcoreapp3.0\DelegetActionFunc.AssemblyInfoInputs.cache
+G:\PRCTICE\Problem-Solving\DelegetActionFunc\obj\Debug\netcoreapp3.0\DelegetActionFunc.AssemblyInfo.cs
+G:\PRCTICE\Problem-Solving\DelegetActionFunc\obj\Debug\netcoreapp3.0\DelegetActionFunc.dll
+G:\PRCTICE\Problem-Solving\DelegetActionFunc\obj\Debug\netcoreapp3.0\DelegetActionFunc.pdb
