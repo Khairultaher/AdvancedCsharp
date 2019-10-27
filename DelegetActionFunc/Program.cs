@@ -12,8 +12,11 @@ namespace DelegetActionFunc
             LambdaTest sqr = (x, y) => x * y;
             //Console.WriteLine(sqr(2,4)); // 100
 
-            Action<int> action = a => Console.WriteLine(a * a);
+            //Action<int> action = (a) => Console.WriteLine(a * a);
             //action(10); // 100
+
+            ((Action<int>)((a) => Console.WriteLine(a * a)))(10);
+
 
             Predicate<int> predicate = (a) =>
             {
@@ -21,8 +24,13 @@ namespace DelegetActionFunc
             };
             //Console.WriteLine(predicate(4));
 
-            Func<int, int, int> func = (a, b) => a * b;
+            //Func<int, int, int> func = (a, b) => a * b;
             //Console.WriteLine(func(4,4));
+
+            //Anonymous function
+            Console.WriteLine(((Func<int, int, int>)((a, b) => {
+               return a * b;
+            }))(20,20));
 
             Calculator calculator = new Calculator();
             calculator.Minus(2, 1);

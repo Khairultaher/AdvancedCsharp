@@ -8,3 +8,4 @@ G:\PRCTICE\Problem-Solving\DelegetActionFunc\obj\Debug\netcoreapp3.0\DelegetActi
 G:\PRCTICE\Problem-Solving\DelegetActionFunc\obj\Debug\netcoreapp3.0\DelegetActionFunc.AssemblyInfo.cs
 G:\PRCTICE\Problem-Solving\DelegetActionFunc\obj\Debug\netcoreapp3.0\DelegetActionFunc.dll
 G:\PRCTICE\Problem-Solving\DelegetActionFunc\obj\Debug\netcoreapp3.0\DelegetActionFunc.pdb
+G:\PRCTICE\Problem-Solving\DelegetActionFunc\obj\Debug\netcoreapp3.0\DelegetActionFunc.csprojAssemblyReference.cache
