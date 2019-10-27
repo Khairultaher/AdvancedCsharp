@@ -31,7 +31,6 @@ namespace EventDeleget
             OnVideoEncoded(video);
 
         }
-
         protected virtual void OnVideoEncoded(Video video)
         {
             if (VideoEncoded != null)
