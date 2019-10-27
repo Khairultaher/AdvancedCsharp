@@ -27,6 +27,7 @@ namespace DelegetActionFunc
             //Func<int, int, int> func = (a, b) => a * b;
             //Console.WriteLine(func(4,4));
 
+            //Anonymous function
             Console.WriteLine(((Func<int, int, int>)((a, b) => {
                return a * b;
             }))(20,20));
