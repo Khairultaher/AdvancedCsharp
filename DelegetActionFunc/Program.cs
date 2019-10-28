@@ -73,7 +73,6 @@ namespace DelegetActionFunc
             return a + b;
         }
     }
-
     public class DelelegateTesting
     {
         public delegate void CallBackMe(); 

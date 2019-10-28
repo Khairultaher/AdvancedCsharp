@@ -1,0 +1,11 @@
+G:\PRCTICE\Problem-Solving\LINQQueryExample\obj\Debug\netcoreapp3.1\LINQQueryExample.csprojAssemblyReference.cache
+G:\PRCTICE\Problem-Solving\LINQQueryExample\obj\Debug\netcoreapp3.1\LINQQueryExample.AssemblyInfoInputs.cache
+G:\PRCTICE\Problem-Solving\LINQQueryExample\obj\Debug\netcoreapp3.1\LINQQueryExample.AssemblyInfo.cs
+G:\PRCTICE\Problem-Solving\LINQQueryExample\bin\Debug\netcoreapp3.1\LINQQueryExample.exe
+G:\PRCTICE\Problem-Solving\LINQQueryExample\bin\Debug\netcoreapp3.1\LINQQueryExample.deps.json
+G:\PRCTICE\Problem-Solving\LINQQueryExample\bin\Debug\netcoreapp3.1\LINQQueryExample.runtimeconfig.json
+G:\PRCTICE\Problem-Solving\LINQQueryExample\bin\Debug\netcoreapp3.1\LINQQueryExample.runtimeconfig.dev.json
+G:\PRCTICE\Problem-Solving\LINQQueryExample\bin\Debug\netcoreapp3.1\LINQQueryExample.dll
+G:\PRCTICE\Problem-Solving\LINQQueryExample\bin\Debug\netcoreapp3.1\LINQQueryExample.pdb
+G:\PRCTICE\Problem-Solving\LINQQueryExample\obj\Debug\netcoreapp3.1\LINQQueryExample.dll
+G:\PRCTICE\Problem-Solving\LINQQueryExample\obj\Debug\netcoreapp3.1\LINQQueryExample.pdb
