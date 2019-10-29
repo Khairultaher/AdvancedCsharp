@@ -1,0 +1,11 @@
+G:\PRCTICE\Problem-Solving\ExtentionMethod\bin\Debug\netcoreapp3.1\ExtentionMethod.exe
+G:\PRCTICE\Problem-Solving\ExtentionMethod\bin\Debug\netcoreapp3.1\ExtentionMethod.deps.json
+G:\PRCTICE\Problem-Solving\ExtentionMethod\bin\Debug\netcoreapp3.1\ExtentionMethod.runtimeconfig.json
+G:\PRCTICE\Problem-Solving\ExtentionMethod\bin\Debug\netcoreapp3.1\ExtentionMethod.runtimeconfig.dev.json
+G:\PRCTICE\Problem-Solving\ExtentionMethod\bin\Debug\netcoreapp3.1\ExtentionMethod.dll
+G:\PRCTICE\Problem-Solving\ExtentionMethod\bin\Debug\netcoreapp3.1\ExtentionMethod.pdb
+G:\PRCTICE\Problem-Solving\ExtentionMethod\obj\Debug\netcoreapp3.1\ExtentionMethod.csprojAssemblyReference.cache
+G:\PRCTICE\Problem-Solving\ExtentionMethod\obj\Debug\netcoreapp3.1\ExtentionMethod.AssemblyInfoInputs.cache
+G:\PRCTICE\Problem-Solving\ExtentionMethod\obj\Debug\netcoreapp3.1\ExtentionMethod.AssemblyInfo.cs
+G:\PRCTICE\Problem-Solving\ExtentionMethod\obj\Debug\netcoreapp3.1\ExtentionMethod.dll
+G:\PRCTICE\Problem-Solving\ExtentionMethod\obj\Debug\netcoreapp3.1\ExtentionMethod.pdb
