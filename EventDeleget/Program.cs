@@ -8,13 +8,15 @@ namespace EventDeleget
         {
             Video video = new Video() { Title = "Video_1" };
             VideoEncoder videoEncoder = new VideoEncoder(); //Publisher
-            MailServer mailServer = new MailServer(); // Subscriber
+
+            MailServer mailServer = new MailServer(); // Subscriber1
             videoEncoder.VideoEncoded += mailServer.OnVideoEncoded;
  
-            SMSServer sMSServer = new SMSServer(); // Subscriber
+            SMSServer sMSServer = new SMSServer(); // Subscriber2
             videoEncoder.VideoEncoded += sMSServer.OnVideoEncoded;
 
             videoEncoder.Encode(video);
+
             Console.ReadLine();
         }
     }
