@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShallowVsDeepCopy", "Shallo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegetActionFunc", "DelegetActionFunc\DelegetActionFunc.csproj", "{EA2C997F-F9C2-4807-AA20-C4CBDEA01628}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtentionMethod", "ExtentionMethod\ExtentionMethod.csproj", "{F5FD7F0D-84CA-41E7-A3F6-50CA44FDF25D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtentionMethod", "ExtentionMethod\ExtentionMethod.csproj", "{F5FD7F0D-84CA-41E7-A3F6-50CA44FDF25D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQQueryExample", "LINQQueryExample\LINQQueryExample.csproj", "{82C607E2-BF65-424D-819D-3DFB8F4AB95B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{F5FD7F0D-84CA-41E7-A3F6-50CA44FDF25D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5FD7F0D-84CA-41E7-A3F6-50CA44FDF25D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5FD7F0D-84CA-41E7-A3F6-50CA44FDF25D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82C607E2-BF65-424D-819D-3DFB8F4AB95B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82C607E2-BF65-424D-819D-3DFB8F4AB95B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82C607E2-BF65-424D-819D-3DFB8F4AB95B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82C607E2-BF65-424D-819D-3DFB8F4AB95B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
