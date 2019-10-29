@@ -1,0 +1,11 @@
+G:\PRCTICE\Problem-Solving\EventExample\bin\Debug\netcoreapp3.1\EventExample.exe
+G:\PRCTICE\Problem-Solving\EventExample\bin\Debug\netcoreapp3.1\EventExample.deps.json
+G:\PRCTICE\Problem-Solving\EventExample\bin\Debug\netcoreapp3.1\EventExample.runtimeconfig.json
+G:\PRCTICE\Problem-Solving\EventExample\bin\Debug\netcoreapp3.1\EventExample.runtimeconfig.dev.json
+G:\PRCTICE\Problem-Solving\EventExample\bin\Debug\netcoreapp3.1\EventExample.dll
+G:\PRCTICE\Problem-Solving\EventExample\bin\Debug\netcoreapp3.1\EventExample.pdb
+G:\PRCTICE\Problem-Solving\EventExample\obj\Debug\netcoreapp3.1\EventExample.csprojAssemblyReference.cache
+G:\PRCTICE\Problem-Solving\EventExample\obj\Debug\netcoreapp3.1\EventExample.AssemblyInfoInputs.cache
+G:\PRCTICE\Problem-Solving\EventExample\obj\Debug\netcoreapp3.1\EventExample.AssemblyInfo.cs
+G:\PRCTICE\Problem-Solving\EventExample\obj\Debug\netcoreapp3.1\EventExample.dll
+G:\PRCTICE\Problem-Solving\EventExample\obj\Debug\netcoreapp3.1\EventExample.pdb

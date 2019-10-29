@@ -28,7 +28,11 @@ namespace EventDeleget
             Console.WriteLine($"{video.Title } is encoding ........!");
             Thread.Sleep(3000);
 
-            OnVideoEncoded(video);
+            //OnVideoEncoded(video);
+            if (VideoEncoded != null)
+            {
+                VideoEncoded(this, new VideoEventArgs { Video = video });
+            }
 
         }
         protected virtual void OnVideoEncoded(Video video)
