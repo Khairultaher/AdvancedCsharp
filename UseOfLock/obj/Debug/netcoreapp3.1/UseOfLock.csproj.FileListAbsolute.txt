@@ -1,0 +1,11 @@
+G:\PRCTICE\Problem-Solving\UseOfLock\bin\Debug\netcoreapp3.1\UseOfLock.exe
+G:\PRCTICE\Problem-Solving\UseOfLock\bin\Debug\netcoreapp3.1\UseOfLock.deps.json
+G:\PRCTICE\Problem-Solving\UseOfLock\bin\Debug\netcoreapp3.1\UseOfLock.runtimeconfig.json
+G:\PRCTICE\Problem-Solving\UseOfLock\bin\Debug\netcoreapp3.1\UseOfLock.runtimeconfig.dev.json
+G:\PRCTICE\Problem-Solving\UseOfLock\bin\Debug\netcoreapp3.1\UseOfLock.dll
+G:\PRCTICE\Problem-Solving\UseOfLock\bin\Debug\netcoreapp3.1\UseOfLock.pdb
+G:\PRCTICE\Problem-Solving\UseOfLock\obj\Debug\netcoreapp3.1\UseOfLock.csprojAssemblyReference.cache
+G:\PRCTICE\Problem-Solving\UseOfLock\obj\Debug\netcoreapp3.1\UseOfLock.AssemblyInfoInputs.cache
+G:\PRCTICE\Problem-Solving\UseOfLock\obj\Debug\netcoreapp3.1\UseOfLock.AssemblyInfo.cs
+G:\PRCTICE\Problem-Solving\UseOfLock\obj\Debug\netcoreapp3.1\UseOfLock.dll
+G:\PRCTICE\Problem-Solving\UseOfLock\obj\Debug\netcoreapp3.1\UseOfLock.pdb
