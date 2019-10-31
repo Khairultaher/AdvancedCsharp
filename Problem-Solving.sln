@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventExample", "EventExampl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PublisherSubscriberPattternWithEventDelegate", "PublisherSubscriberPattternWithEventDelegate\PublisherSubscriberPattternWithEventDelegate.csproj", "{85F889E9-6F83-406F-A5CE-DCD5490E93E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseOfLock", "UseOfLock\UseOfLock.csproj", "{FC324A72-EA3B-4BFC-9693-C1B793D2B41B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UseOfLock", "UseOfLock\UseOfLock.csproj", "{FC324A72-EA3B-4BFC-9693-C1B793D2B41B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventDelegateNew", "EventDelegateNew\EventDelegateNew.csproj", "{C083D779-48B3-4371-B454-04D19BEA3DD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{FC324A72-EA3B-4BFC-9693-C1B793D2B41B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC324A72-EA3B-4BFC-9693-C1B793D2B41B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC324A72-EA3B-4BFC-9693-C1B793D2B41B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C083D779-48B3-4371-B454-04D19BEA3DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C083D779-48B3-4371-B454-04D19BEA3DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C083D779-48B3-4371-B454-04D19BEA3DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C083D779-48B3-4371-B454-04D19BEA3DD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,10 @@
+G:\PRCTICE\Problem-Solving\EventDelegateNew\obj\Debug\netcoreapp3.1\EventDelegateNew.AssemblyInfoInputs.cache
+G:\PRCTICE\Problem-Solving\EventDelegateNew\obj\Debug\netcoreapp3.1\EventDelegateNew.AssemblyInfo.cs
+G:\PRCTICE\Problem-Solving\EventDelegateNew\bin\Debug\netcoreapp3.1\EventDelegateNew.exe
+G:\PRCTICE\Problem-Solving\EventDelegateNew\bin\Debug\netcoreapp3.1\EventDelegateNew.deps.json
+G:\PRCTICE\Problem-Solving\EventDelegateNew\bin\Debug\netcoreapp3.1\EventDelegateNew.runtimeconfig.json
+G:\PRCTICE\Problem-Solving\EventDelegateNew\bin\Debug\netcoreapp3.1\EventDelegateNew.runtimeconfig.dev.json
+G:\PRCTICE\Problem-Solving\EventDelegateNew\bin\Debug\netcoreapp3.1\EventDelegateNew.dll
+G:\PRCTICE\Problem-Solving\EventDelegateNew\bin\Debug\netcoreapp3.1\EventDelegateNew.pdb
+G:\PRCTICE\Problem-Solving\EventDelegateNew\obj\Debug\netcoreapp3.1\EventDelegateNew.dll
+G:\PRCTICE\Problem-Solving\EventDelegateNew\obj\Debug\netcoreapp3.1\EventDelegateNew.pdb
