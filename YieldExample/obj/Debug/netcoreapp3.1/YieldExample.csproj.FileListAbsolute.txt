@@ -1,0 +1,11 @@
+G:\PRCTICE\Problem-Solving\YieldExample\bin\Debug\netcoreapp3.1\YieldExample.exe
+G:\PRCTICE\Problem-Solving\YieldExample\bin\Debug\netcoreapp3.1\YieldExample.deps.json
+G:\PRCTICE\Problem-Solving\YieldExample\bin\Debug\netcoreapp3.1\YieldExample.runtimeconfig.json
+G:\PRCTICE\Problem-Solving\YieldExample\bin\Debug\netcoreapp3.1\YieldExample.runtimeconfig.dev.json
+G:\PRCTICE\Problem-Solving\YieldExample\bin\Debug\netcoreapp3.1\YieldExample.dll
+G:\PRCTICE\Problem-Solving\YieldExample\bin\Debug\netcoreapp3.1\YieldExample.pdb
+G:\PRCTICE\Problem-Solving\YieldExample\obj\Debug\netcoreapp3.1\YieldExample.csprojAssemblyReference.cache
+G:\PRCTICE\Problem-Solving\YieldExample\obj\Debug\netcoreapp3.1\YieldExample.AssemblyInfoInputs.cache
+G:\PRCTICE\Problem-Solving\YieldExample\obj\Debug\netcoreapp3.1\YieldExample.AssemblyInfo.cs
+G:\PRCTICE\Problem-Solving\YieldExample\obj\Debug\netcoreapp3.1\YieldExample.dll
+G:\PRCTICE\Problem-Solving\YieldExample\obj\Debug\netcoreapp3.1\YieldExample.pdb
