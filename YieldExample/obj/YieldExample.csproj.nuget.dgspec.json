@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\PRCTICE\\Problem-Solving\\PublisherSubscriberPattternWithEventDelegate\\PublisherSubscriberPattternWithEventDelegate.csproj": {}
+    "G:\\PRCTICE\\Problem-Solving\\YieldExample\\YieldExample.csproj": {}
   },
   "projects": {
-    "G:\\PRCTICE\\Problem-Solving\\PublisherSubscriberPattternWithEventDelegate\\PublisherSubscriberPattternWithEventDelegate.csproj": {
+    "G:\\PRCTICE\\Problem-Solving\\YieldExample\\YieldExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\PRCTICE\\Problem-Solving\\PublisherSubscriberPattternWithEventDelegate\\PublisherSubscriberPattternWithEventDelegate.csproj",
-        "projectName": "PublisherSubscriberPattternWithEventDelegate",
-        "projectPath": "G:\\PRCTICE\\Problem-Solving\\PublisherSubscriberPattternWithEventDelegate\\PublisherSubscriberPattternWithEventDelegate.csproj",
+        "projectUniqueName": "G:\\PRCTICE\\Problem-Solving\\YieldExample\\YieldExample.csproj",
+        "projectName": "YieldExample",
+        "projectPath": "G:\\PRCTICE\\Problem-Solving\\YieldExample\\YieldExample.csproj",
         "packagesPath": "C:\\Users\\Kairul\\.nuget\\packages\\",
-        "outputPath": "G:\\PRCTICE\\Problem-Solving\\PublisherSubscriberPattternWithEventDelegate\\obj\\",
+        "outputPath": "G:\\PRCTICE\\Problem-Solving\\YieldExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
