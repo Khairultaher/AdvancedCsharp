@@ -49,7 +49,6 @@ namespace YieldExample
                 }
             }
         }
-
         static IEnumerable<int> PrintDataGreaterThanInputValueWithoutYield(int inputval)
         {
             List<int> lstTemp = new List<int>();
