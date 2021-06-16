@@ -10,6 +10,7 @@ namespace AccessModifier
 
             ChildA childa = new ChildA();
             // ChildB childb = childa; // Error: Can not implicitly convert type
+            //var res = childa.Prop4; // Error: Prop4 is protected
 
             Console.ReadLine();
         }
@@ -26,8 +27,7 @@ namespace AccessModifier
         }
 
         public string Prop1 { get; set; }
-        private string Prop2 { get; set; }
-        public virtual string Prop3
+        public virtual string Prop2
         {
             get { return _t; }
             set
@@ -36,6 +36,10 @@ namespace AccessModifier
                 _t = value;
             }
         }
+        internal string Prop3 { get; set; }
+        protected string Prop4 { get; set; }
+        private string Prop5 { get; set; }
+
         public virtual void Print()
         {
             Console.WriteLine(Prop1 + " " + Prop2);
@@ -48,19 +52,27 @@ namespace AccessModifier
         {
         }
 
-        public override string Prop3
+        public override string Prop2
         {
             get { return base.Prop3; }
             set
             {
                 Console.WriteLine("I'm in derived");
-                base.Prop3 = value;  // this assignment is invoking the base setter
+                base.Prop2 = value;  // this assignment is invoking the base setter
             }
         }
         public override void Print()
         {
+            // public
             Console.WriteLine(base.Prop1);
-            //Console.WriteLine(base.Prop2); // Error: base.Prop2 is private
+            // public
+            Console.WriteLine(base.Prop2);
+            // internal
+            Console.WriteLine(base.Prop3);
+            // protected
+            Console.WriteLine(base.Prop4);
+            // private
+            //Console.WriteLine(base.Prop5); // Error: base.Prop5 is private
         }
         public static Base ChildofBase(Base papa)
         {
@@ -77,13 +89,13 @@ namespace AccessModifier
         {
         }
 
-        public override string Prop3
+        public override string Prop2
         {
             get { return base.Prop3; }
             set
             {
                 Console.WriteLine("I'm in derived");
-                base.Prop3 = value;  // this assignment is invoking the base setter
+                base.Prop2 = value;  // this assignment is invoking the base setter
             }
         }
         public override void Print()
