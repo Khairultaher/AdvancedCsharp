@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FAx7idsKnHhuyaaj8XTwMxg3QoR6CxV5lwcTLG+8ruDWrplj5HJwcOzXC4LnHGsCaOxC2PpdkArc6ttCKpCXjg==",
+  "success": true,
+  "projectFilePath": "E:\\PRACTICE\\DOT NET\\AdvancedCsharp\\YieldExample\\YieldExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Khairul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

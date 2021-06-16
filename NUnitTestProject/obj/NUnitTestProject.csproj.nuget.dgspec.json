@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\PRCTICE\\Problem-Solving\\NUnitTestProject\\NUnitTestProject.csproj": {}
+    "E:\\PRACTICE\\DOT NET\\AdvancedCsharp\\NUnitTestProject\\NUnitTestProject.csproj": {}
   },
   "projects": {
-    "G:\\PRCTICE\\Problem-Solving\\NUnitTestProject\\NUnitTestProject.csproj": {
+    "E:\\PRACTICE\\DOT NET\\AdvancedCsharp\\NUnitTestProject\\NUnitTestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\PRCTICE\\Problem-Solving\\NUnitTestProject\\NUnitTestProject.csproj",
+        "projectUniqueName": "E:\\PRACTICE\\DOT NET\\AdvancedCsharp\\NUnitTestProject\\NUnitTestProject.csproj",
         "projectName": "NUnitTestProject",
-        "projectPath": "G:\\PRCTICE\\Problem-Solving\\NUnitTestProject\\NUnitTestProject.csproj",
-        "packagesPath": "C:\\Users\\Kairul\\.nuget\\packages\\",
-        "outputPath": "G:\\PRCTICE\\Problem-Solving\\NUnitTestProject\\obj\\",
+        "projectPath": "E:\\PRACTICE\\DOT NET\\AdvancedCsharp\\NUnitTestProject\\NUnitTestProject.csproj",
+        "packagesPath": "C:\\Users\\Khairul\\.nuget\\packages\\",
+        "outputPath": "E:\\PRACTICE\\DOT NET\\AdvancedCsharp\\NUnitTestProject\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Kairul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Khairul\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.0": {
+            "targetAlias": "netcoreapp3.0",
             "projectReferences": {}
           }
         },
@@ -40,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -67,7 +66,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
+              "version": "[3.0.1, 3.0.1]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
@@ -83,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100-preview3-014645\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.3.21202.5\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HNWMTikyaU6OqUxYj+mdR5hn4xnWLOGl6kAAuWxF1yG35BXxGAt8hW0tZJrusuFsXivTidRGKE2vTtMmETYmew==",
+  "success": true,
+  "projectFilePath": "E:\\PRACTICE\\DOT NET\\AdvancedCsharp\\LINQQueryExample\\LINQQueryExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Khairul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

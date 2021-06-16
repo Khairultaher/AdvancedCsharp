@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "t7mJ+STOIjDLEsU0D9HfeSPsgQw22EBYfe6pxZVA7HfOc8m10CDgNbpo70Hm+BgC73/IXGYCld0YtRT8wfvECA==",
+  "success": true,
+  "projectFilePath": "E:\\PRACTICE\\DOT NET\\AdvancedCsharp\\ShallowVsDeepCopy\\ShallowVsDeepCopy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Khairul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Khairul\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Khairul\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Khairul\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

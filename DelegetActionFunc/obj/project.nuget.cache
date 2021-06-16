@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+wtjF92RIJ8BC7xTIoFf6EQaOlu10hei10AS4KLcYzNR96hLC/ZbkwMfvhkqn9elVudQfIl4GxDAuW6XvRwQ1Q==",
+  "success": true,
+  "projectFilePath": "E:\\PRACTICE\\DOT NET\\AdvancedCsharp\\DelegetActionFunc\\DelegetActionFunc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Khairul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Khairul\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Khairul\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Khairul\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
