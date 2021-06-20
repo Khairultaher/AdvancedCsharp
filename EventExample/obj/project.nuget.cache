@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "XWPYRHzysSB5/LN8HbGzubUeM5dDwR54bHq9Gk+OlqB9+mJN2rWUib9kghiMvxZYsLBzu4Aw2R7vynw9SgadjA==",
+  "dgSpecHash": "RkRjkQZvYp3WbJxt1IlSzQrI25W3xkMRvTKWvDu25j5J1syvYXsQVmBkwMGfnsE5Pbph8NuktOoXlLiqJJIStg==",
   "success": true,
-  "projectFilePath": "E:\\PRACTICE\\DOT NET\\AdvancedCsharp\\EventExample\\EventExample.csproj",
+  "projectFilePath": "E:\\PRACTICE\\DSA\\AdvancedCsharp\\EventExample\\EventExample.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Khairul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+    "C:\\Users\\Khairul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512"
   ],
   "logs": []
 }

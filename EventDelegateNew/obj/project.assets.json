@@ -8,19 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Khairul\\.nuget\\packages\\": {}
+    "C:\\Users\\Khairul\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\PRACTICE\\DOT NET\\AdvancedCsharp\\EventDelegateNew\\EventDelegateNew.csproj",
+      "projectUniqueName": "E:\\PRACTICE\\DSA\\AdvancedCsharp\\EventDelegateNew\\EventDelegateNew.csproj",
       "projectName": "EventDelegateNew",
-      "projectPath": "E:\\PRACTICE\\DOT NET\\AdvancedCsharp\\EventDelegateNew\\EventDelegateNew.csproj",
+      "projectPath": "E:\\PRACTICE\\DSA\\AdvancedCsharp\\EventDelegateNew\\EventDelegateNew.csproj",
       "packagesPath": "C:\\Users\\Khairul\\.nuget\\packages\\",
-      "outputPath": "E:\\PRACTICE\\DOT NET\\AdvancedCsharp\\EventDelegateNew\\obj\\",
+      "outputPath": "E:\\PRACTICE\\DSA\\AdvancedCsharp\\EventDelegateNew\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Khairul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +63,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.12, 3.1.12]"
+            "version": "[3.1.15, 3.1.15]"
           }
         ],
         "frameworkReferences": {
@@ -66,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.3.21202.5\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.5.21302.13\\RuntimeIdentifierGraph.json"
       }
     }
   }

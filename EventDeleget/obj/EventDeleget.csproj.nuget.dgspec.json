@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PRACTICE\\DOT NET\\AdvancedCsharp\\EventDeleget\\EventDeleget.csproj": {}
+    "E:\\PRACTICE\\DSA\\AdvancedCsharp\\EventDeleget\\EventDeleget.csproj": {}
   },
   "projects": {
-    "E:\\PRACTICE\\DOT NET\\AdvancedCsharp\\EventDeleget\\EventDeleget.csproj": {
+    "E:\\PRACTICE\\DSA\\AdvancedCsharp\\EventDeleget\\EventDeleget.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PRACTICE\\DOT NET\\AdvancedCsharp\\EventDeleget\\EventDeleget.csproj",
+        "projectUniqueName": "E:\\PRACTICE\\DSA\\AdvancedCsharp\\EventDeleget\\EventDeleget.csproj",
         "projectName": "EventDeleget",
-        "projectPath": "E:\\PRACTICE\\DOT NET\\AdvancedCsharp\\EventDeleget\\EventDeleget.csproj",
+        "projectPath": "E:\\PRACTICE\\DSA\\AdvancedCsharp\\EventDeleget\\EventDeleget.csproj",
         "packagesPath": "C:\\Users\\Khairul\\.nuget\\packages\\",
-        "outputPath": "E:\\PRACTICE\\DOT NET\\AdvancedCsharp\\EventDeleget\\obj\\",
+        "outputPath": "E:\\PRACTICE\\DSA\\AdvancedCsharp\\EventDeleget\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Khairul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -72,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.3.21202.5\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.5.21302.13\\RuntimeIdentifierGraph.json"
         }
       }
     }
