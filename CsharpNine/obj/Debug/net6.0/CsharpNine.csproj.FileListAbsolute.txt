@@ -1,0 +1,15 @@
+E:\PRACTICE\DSA\AdvancedCsharp\CsharpNine\bin\Debug\net6.0\CsharpNine.exe
+E:\PRACTICE\DSA\AdvancedCsharp\CsharpNine\bin\Debug\net6.0\CsharpNine.deps.json
+E:\PRACTICE\DSA\AdvancedCsharp\CsharpNine\bin\Debug\net6.0\CsharpNine.runtimeconfig.json
+E:\PRACTICE\DSA\AdvancedCsharp\CsharpNine\bin\Debug\net6.0\CsharpNine.dll
+E:\PRACTICE\DSA\AdvancedCsharp\CsharpNine\bin\Debug\net6.0\ref\CsharpNine.dll
+E:\PRACTICE\DSA\AdvancedCsharp\CsharpNine\bin\Debug\net6.0\CsharpNine.pdb
+E:\PRACTICE\DSA\AdvancedCsharp\CsharpNine\obj\Debug\net6.0\CsharpNine.csproj.AssemblyReference.cache
+E:\PRACTICE\DSA\AdvancedCsharp\CsharpNine\obj\Debug\net6.0\CsharpNine.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRACTICE\DSA\AdvancedCsharp\CsharpNine\obj\Debug\net6.0\CsharpNine.AssemblyInfoInputs.cache
+E:\PRACTICE\DSA\AdvancedCsharp\CsharpNine\obj\Debug\net6.0\CsharpNine.AssemblyInfo.cs
+E:\PRACTICE\DSA\AdvancedCsharp\CsharpNine\obj\Debug\net6.0\CsharpNine.csproj.CoreCompileInputs.cache
+E:\PRACTICE\DSA\AdvancedCsharp\CsharpNine\obj\Debug\net6.0\CsharpNine.dll
+E:\PRACTICE\DSA\AdvancedCsharp\CsharpNine\obj\Debug\net6.0\ref\CsharpNine.dll
+E:\PRACTICE\DSA\AdvancedCsharp\CsharpNine\obj\Debug\net6.0\CsharpNine.pdb
+E:\PRACTICE\DSA\AdvancedCsharp\CsharpNine\obj\Debug\net6.0\CsharpNine.genruntimeconfig.cache
