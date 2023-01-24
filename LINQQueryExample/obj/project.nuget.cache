@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8MKRwkwl7z4GJlHacpINfmeldo9LnKuMeyrCePrwu34gXFYIhFEfrFjFYys7Am0rRxORA2tsf/DtB8jpKv0VZQ==",
+  "dgSpecHash": "9uml0GuXp1ivY5rMc9aFn5UGH0KoVSPP9WfYpov9HRMesdCQwBdC1B0I5p5O5prtcs60peAqP7cVnwTlydVinQ==",
   "success": true,
-  "projectFilePath": "E:\\PRACTICE\\DSA\\AdvancedCsharp\\LINQQueryExample\\LINQQueryExample.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Khairul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512"
-  ],
+  "projectFilePath": "F:\\PRACTICE\\AdvancedCsharp\\LINQQueryExample\\LINQQueryExample.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

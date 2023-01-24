@@ -8,7 +8,6 @@ namespace PublisherSubscriberPattternWithEventDelegate
     {
         private readonly IPublisher<int> IntPublisher;
         private readonly Subscriber<int> IntSublisher1;
-
         private readonly Subscriber<int> IntSublisher2;
         public Client()
         {

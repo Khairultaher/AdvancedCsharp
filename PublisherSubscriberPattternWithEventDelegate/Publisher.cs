@@ -35,8 +35,10 @@ namespace PublisherSubscriberPattternWithEventDelegate
         }
         public void PublishData(T data)
         {
-            MessageArgument<T> message = (MessageArgument<T>)Activator
-                                         .CreateInstance(typeof(MessageArgument<T>), new object[] { data});
+            MessageArgument<T> message 
+                = (MessageArgument<T>)Activator
+                .CreateInstance(typeof(MessageArgument<T>), new object[] { data});
+
             OnDataPublisher(message);
         }
     }

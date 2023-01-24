@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PRACTICE\\DSA\\AdvancedCsharp\\EventExample\\EventExample.csproj": {}
+    "F:\\PRACTICE\\AdvancedCsharp\\EventExample\\EventExample.csproj": {}
   },
   "projects": {
-    "E:\\PRACTICE\\DSA\\AdvancedCsharp\\EventExample\\EventExample.csproj": {
+    "F:\\PRACTICE\\AdvancedCsharp\\EventExample\\EventExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PRACTICE\\DSA\\AdvancedCsharp\\EventExample\\EventExample.csproj",
+        "projectUniqueName": "F:\\PRACTICE\\AdvancedCsharp\\EventExample\\EventExample.csproj",
         "projectName": "EventExample",
-        "projectPath": "E:\\PRACTICE\\DSA\\AdvancedCsharp\\EventExample\\EventExample.csproj",
-        "packagesPath": "C:\\Users\\Khairul\\.nuget\\packages\\",
-        "outputPath": "E:\\PRACTICE\\DSA\\AdvancedCsharp\\EventExample\\obj\\",
+        "projectPath": "F:\\PRACTICE\\AdvancedCsharp\\EventExample\\EventExample.csproj",
+        "packagesPath": "C:\\Users\\XPS\\.nuget\\packages\\",
+        "outputPath": "F:\\PRACTICE\\AdvancedCsharp\\EventExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Khairul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\XPS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -49,22 +50,17 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.15, 3.1.15]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.5.21302.13\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

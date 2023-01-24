@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9CCWLXW9KlgxqZvfq1wgNPsGqmMY/23qQybgbytcw6d0N7wyWEiKcX1GkgwigkZ9TJp3Pp1NnJKtBgtK0oNTgA==",
+  "dgSpecHash": "iaHGdejdmynYZIeBcGUIPu27roCoK72trZWcFFIQk8A7oqTKNWvStF60STFtTF46dWYlgWbq5VGxZH2WCJHSJg==",
   "success": true,
-  "projectFilePath": "E:\\PRACTICE\\DSA\\AdvancedCsharp\\UseOfLock\\UseOfLock.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Khairul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512"
-  ],
+  "projectFilePath": "F:\\PRACTICE\\AdvancedCsharp\\UseOfLock\\UseOfLock.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
