@@ -87,6 +87,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter", "Interpreter\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "Memento\Memento.csproj", "{DFA0E7CD-2BD1-4B7B-82BF-4749AB468BE3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelForForEach", "ParallelForForEach\ParallelForForEach.csproj", "{215835E9-9088-4534-9E72-650098224C14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -245,6 +247,10 @@ Global
 		{DFA0E7CD-2BD1-4B7B-82BF-4749AB468BE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFA0E7CD-2BD1-4B7B-82BF-4749AB468BE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFA0E7CD-2BD1-4B7B-82BF-4749AB468BE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{215835E9-9088-4534-9E72-650098224C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{215835E9-9088-4534-9E72-650098224C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{215835E9-9088-4534-9E72-650098224C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{215835E9-9088-4534-9E72-650098224C14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
