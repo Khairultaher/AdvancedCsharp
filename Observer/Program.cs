@@ -1,6 +1,5 @@
 ﻿/*
- * It is a behavioral pattern that defines a one-to-many dependency between objects, 
- * so that when one object changes its state, all of its dependents are notified and updated automatically.
+ * The Observer pattern is a design pattern used in software development to provide a way for objects to be notified of changes in other objects. The Observer pattern defines a one-to-many relationship between objects, where one object (the subject) is observed by many other objects (the observers). The subject maintains a list of its observers, and notifies them of changes to its state.
  * 
  * Useful when you are interested in the state of an object and want to get notified whenever there is any change.
 */

@@ -1,5 +1,5 @@
 ﻿/*
- * it is a structural pattern that is used to minimize the number of objects created, 
+ * It is a structural pattern that is used to minimize the number of objects created, 
  * to decrease memory footprint and increase performance.
  * 
  * Caching and reusing object instances, used with immutable objects. For example, string pool.

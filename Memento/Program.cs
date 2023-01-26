@@ -1,7 +1,5 @@
 ﻿/*
- * The Memento pattern is a behavioral design pattern that allows an object's internal state to be saved 
- * and restored at a later time
- * 
+ * The Memento pattern is a design pattern used in software development to provide the ability to restore an object to its previous state. The Memento pattern allows an object's internal state to be saved and restored, without violating encapsulation.
  * The memento design pattern is used when we want to save the state of an object so that we can restore later on.
 */
 

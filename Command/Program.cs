@@ -2,6 +2,8 @@
  * It is a behavioral pattern that encapsulates a request as an object, allowing the request 
  * to be passed as a method argument, delayed or logged, and supports undo/redo.
  * 
+ * The Command pattern is a design pattern used in software development to encapsulate a request as an object, allowing for the parameterization of clients with different requests, and the separation of the object that invokes the operation from the objects that perform these operations.
+ * 
  * Command Pattern is used to implement lose coupling in a request-response model.
 */
 

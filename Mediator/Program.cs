@@ -1,6 +1,5 @@
 ﻿/*
- * It is a behavioral pattern that allows objects to communicate without knowing each other's identities, 
- * reducing the dependencies between objects.
+ * The Mediator pattern is a design pattern used in software development to provide a way for objects to communicate with each other without having to be aware of the other objects. The Mediator pattern defines an object (the "mediator") that acts as an intermediary between other objects (the "colleagues"). The colleagues communicate with the mediator, and the mediator communicates with the other colleagues, rather than communicating directly with each other.
  * 
  * Used to provide a centralized communication medium between different objects in a system.
 */

@@ -1,6 +1,5 @@
 ﻿/*
- * It is a behavioral pattern that allows passing requests along a dynamic chain of objects, 
- * avoiding coupling the sender of a request to its receiver.
+ * The Chain of Responsibility pattern is a design pattern used in software development to create a chain of objects that can handle a request. Each object in the chain has the opportunity to handle the request, and if it can't, it passes the request to the next object in the chain. This allows for a decoupling of the sender and the receiver of a request, and allows for multiple objects to handle the request.
  * 
  * Used to achieve loose coupling in software design where a request from the client is passed to 
  * a chain of objects to process them.

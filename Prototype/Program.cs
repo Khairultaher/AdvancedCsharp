@@ -1,5 +1,7 @@
 ﻿/*
- * It is a creational pattern that creates new objects by copying existing objects, which serves as a prototype.
+ * The Prototype pattern is a creational design pattern that allows an object to create a copy of itself, 
+ * rather than creating a new instance from scratch. This can be useful when creating objects that are 
+ * expensive to create, such as large data structures or complex algorithms.
  * 
  * Creating a new object instance from another similar instance and then modify according to our requirements.
  */

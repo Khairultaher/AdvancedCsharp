@@ -1,6 +1,7 @@
 ﻿/*
- * It is a creational pattern that separates the construction of a complex object from its representation, 
- * allowing the same construction process to create various representations.
+ * The Builder pattern is a creational design pattern that separates the construction of a complex object from 
+ * its representation. It allows a client to construct a complex object step by step, 
+ * by providing a fluent interface for adding different parts to the object.
  * 
  * Creating an object step by step and a method to finally get the object instance
  */

@@ -1,6 +1,7 @@
 ﻿/*
- * It is a structural pattern that separates an object’s interface from its implementation, 
- * allowing the two to vary independently.
+ * The Bridge pattern is a structural design pattern that separates an object's interface from its implementation, 
+ * allowing the two to vary independently. It allows the implementation of an object to be swapped out at runtime 
+ * without affecting the clients that use the object.
  * 
  * The bridge design pattern is used to decouple the interfaces from implementation and hiding 
  * the implementation details from the client program.

@@ -1,6 +1,7 @@
 ﻿/*
- * It is a structural pattern that provides a simplified interface to a complex system of classes, 
- * hiding the underlying complexity.
+ * The Facade pattern is a design pattern used in software development to provide a simplified interface 
+ * to a complex system. It provides a single, simplified interface to a set of interfaces in a subsystem, 
+ * hiding the implementation details of the subsystem from the client.
  * 
  * Creating a wrapper interfaces on top of existing interfaces to help client applications.
 */

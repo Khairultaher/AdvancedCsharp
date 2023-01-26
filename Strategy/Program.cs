@@ -1,6 +1,8 @@
 ﻿/*
  * It is a behavioral pattern that allows an object to change its behavior at runtime by changing its strategy.
  * 
+ * The Strategy pattern is a design pattern used in software development to provide a way for different algorithms or behaviors to be used interchangeably. The Strategy pattern allows an object to change its behavior at runtime by delegating the behavior to a separate object. This allows the behavior of an object to be modified without changing its class.
+ * 
  * Strategy pattern is used when we have multiple algorithm for a specific task and client decides the actual 
  * implementation to be used at runtime.
 */

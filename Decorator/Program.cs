@@ -1,6 +1,7 @@
 ﻿/*
- * It is a structural pattern that allows adding new behavior to objects by placing them 
- * inside wrapper objects that contain the new behavior.
+ * The Decorator pattern is a structural design pattern that allows you to add new behaviors 
+ * to objects by wrapping them in decorator objects that contain these behaviors.
+ * It allows you to add, remove or override behavior of an object at runtime.
  * 
  * The decorator design pattern is used to modify the functionality of an object at runtime.
 */

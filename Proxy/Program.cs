@@ -1,5 +1,5 @@
 ﻿/*
- * It is a structural pattern that provides a surrogate or placeholder for another object to control access to it.
+ * The Proxy pattern is a design pattern used in software development to provide a surrogate or placeholder object for another object in order to control access to it. This can be useful in situations where the real object is located remotely, expensive to create, or requires additional functionality that can be provided by the proxy.
 */
 
 Console.WriteLine("Client passing employee with Role Developer to folderproxy");
