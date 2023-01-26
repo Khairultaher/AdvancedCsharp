@@ -1,6 +1,9 @@
 ﻿/*
  * It is a behavioral pattern that allows passing requests along a dynamic chain of objects, 
  * avoiding coupling the sender of a request to its receiver.
+ * 
+ * Used to achieve loose coupling in software design where a request from the client is passed to 
+ * a chain of objects to process them.
 */
 
 TenPercentDiscountHandler tenPercent = new TenPercentDiscountHandler();

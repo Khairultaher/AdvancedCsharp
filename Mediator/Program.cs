@@ -1,6 +1,8 @@
 ﻿/*
  * It is a behavioral pattern that allows objects to communicate without knowing each other's identities, 
  * reducing the dependencies between objects.
+ * 
+ * Used to provide a centralized communication medium between different objects in a system.
 */
 
 IMediator mediator = new ATCMediator();

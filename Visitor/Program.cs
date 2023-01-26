@@ -1,5 +1,8 @@
 ﻿/*
- * It is a behavioral pattern that allows separating an algorithm from an object structure on which it operates.
+ * The Visitor pattern allows a new operation to be added to an existing object structure without modifying 
+ * the classes of the elements in that structure.
+ * 
+ * Visitor pattern is used when we have to perform an operation on a group of similar kind of Objects.
 */
 
 Directory root = new Directory("root");

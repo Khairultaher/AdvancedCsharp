@@ -1,6 +1,8 @@
 ﻿/*
  * It is a structural pattern that allows objects with incompatible interfaces to work together 
  * by wrapping an instance of one class with an adapter class that conforms to the interface of the other class.
+ * 
+ * Provides an interface between two unrelated entities so that they can work together.
  */
 
 IDatabase database = new DatabaseAdapter(new LegacyDatabase());

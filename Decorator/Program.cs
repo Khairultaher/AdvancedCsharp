@@ -1,6 +1,8 @@
 ﻿/*
  * It is a structural pattern that allows adding new behavior to objects by placing them 
  * inside wrapper objects that contain the new behavior.
+ * 
+ * The decorator design pattern is used to modify the functionality of an object at runtime.
 */
 
 Document document = new SimpleDocument("This is a simple document");

@@ -1,5 +1,7 @@
 ﻿/*
  * It is a behavioral pattern that allows an object to alter its behavior when its internal state changes.
+ * 
+ * State design pattern is used when an Object change it’s behavior based on it’s internal state.
 */
 
 TrafficLight trafficLight = new TrafficLight(new GreenLight());

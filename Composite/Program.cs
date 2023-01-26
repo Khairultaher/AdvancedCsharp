@@ -3,6 +3,9 @@
  * to represent part-whole hierarchies. This pattern is used when you want to represent a complex object 
  * as a tree of simpler objects, and when you want to treat both individual objects and compositions 
  * of objects uniformly.
+ * 
+ * 
+ * Used when we have to implement a part-whole hierarchy. For example, a diagram made of other pieces such as circle, square, triangle, etc.
 */
 
 Document document = new Document();

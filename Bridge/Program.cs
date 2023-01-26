@@ -1,6 +1,9 @@
 ﻿/*
  * It is a structural pattern that separates an object’s interface from its implementation, 
  * allowing the two to vary independently.
+ * 
+ * The bridge design pattern is used to decouple the interfaces from implementation and hiding 
+ * the implementation details from the client program.
  */
 
 IDocumentRenderer pdfRenderer = new PdfRenderer();

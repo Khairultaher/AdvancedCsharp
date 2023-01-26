@@ -1,6 +1,8 @@
 ﻿/*
  * It is a structural pattern that provides a simplified interface to a complex system of classes, 
  * hiding the underlying complexity.
+ * 
+ * Creating a wrapper interfaces on top of existing interfaces to help client applications.
 */
 
 Order order = new Order();

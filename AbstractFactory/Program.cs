@@ -1,6 +1,8 @@
 ﻿/*
  * It is a creational pattern that provides an interface for creating families of related or dependent objects 
  * without specifying their concrete classes.
+ * 
+ * Allows us to create a Factory for factory classes.
  */
 
 AbstractFactory factory1 = new ConcreteFactory1();

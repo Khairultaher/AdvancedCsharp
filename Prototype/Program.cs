@@ -1,5 +1,7 @@
 ﻿/*
  * It is a creational pattern that creates new objects by copying existing objects, which serves as a prototype.
+ * 
+ * Creating a new object instance from another similar instance and then modify according to our requirements.
  */
 
 Prototype prototypeA = new ConcretePrototypeA("1", "A");

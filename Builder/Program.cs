@@ -1,6 +1,8 @@
 ﻿/*
  * It is a creational pattern that separates the construction of a complex object from its representation, 
  * allowing the same construction process to create various representations.
+ * 
+ * Creating an object step by step and a method to finally get the object instance
  */
 
 ComputerShop shop = new ComputerShop();

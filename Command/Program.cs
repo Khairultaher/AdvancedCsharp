@@ -1,6 +1,8 @@
 ﻿/*
  * It is a behavioral pattern that encapsulates a request as an object, allowing the request 
  * to be passed as a method argument, delayed or logged, and supports undo/redo.
+ * 
+ * Command Pattern is used to implement lose coupling in a request-response model.
 */
 
 Light light = new Light();

@@ -1,6 +1,8 @@
 ﻿/*
  * It is a behavioral pattern that defines a one-to-many dependency between objects, 
  * so that when one object changes its state, all of its dependents are notified and updated automatically.
+ * 
+ * Useful when you are interested in the state of an object and want to get notified whenever there is any change.
 */
 
 Stock googleStock = new Stock("GOOG", 100.0);

@@ -1,5 +1,8 @@
 ﻿/*
  * It is a behavioral pattern that allows an object to change its behavior at runtime by changing its strategy.
+ * 
+ * Strategy pattern is used when we have multiple algorithm for a specific task and client decides the actual 
+ * implementation to be used at runtime.
 */
 
 List<int> list = new List<int> { 4, 2, 9, 6, 23, 12, 34, 0, 1 };

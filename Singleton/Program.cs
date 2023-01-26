@@ -1,6 +1,8 @@
 ﻿/*
  * It is a creational pattern that ensures a class has only one instance, 
  * while providing a global access point to this instance.
+ * 
+ * The singleton pattern restricts the initialization of a class to ensure that only one instance of the class can be created.
  */
 
 Singleton singleton = Singleton.Instance;

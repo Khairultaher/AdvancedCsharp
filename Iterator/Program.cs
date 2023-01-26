@@ -1,6 +1,8 @@
 ﻿/*
  * It is a behavioral pattern that provides a way to traverse a collection of objects 
  * without exposing the underlying representation.
+ * 
+ * Used to provide a standard way to traverse through a group of Objects.
 */
 
 using System.Collections;
