@@ -1,5 +1,9 @@
 ﻿
 
+Car car =new Car();
+Console.WriteLine(car.add(1));
+Console.WriteLine(car.add(1, 1));
+
 // File: Car.cs
 public partial class Car
 {
@@ -7,6 +11,14 @@ public partial class Car
     private string model;
     private int year;
 
+    public int add(int a)
+    {
+        return 1;
+    }
+    public string add(int a, int b)
+    {
+        return "aaaa";
+    }
     public Car(string make, string model, int year)
     {
         this.make = make;

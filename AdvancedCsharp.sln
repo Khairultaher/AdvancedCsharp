@@ -79,19 +79,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy", "Strategy\Strate
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Visitor", "Visitor\Visitor.csproj", "{AEE95245-7836-46FA-B84D-434A26F6D29C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern", "DesignPattern\DesignPattern.csproj", "{28538050-42B2-408D-9AB6-0A538478AE76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPattern", "DesignPattern\DesignPattern.csproj", "{28538050-42B2-408D-9AB6-0A538478AE76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{B3977516-6CD0-4E3C-94B5-196BAF9FABF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{B3977516-6CD0-4E3C-94B5-196BAF9FABF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter", "Interpreter\Interpreter.csproj", "{B66FA07F-B0B7-4D5C-8833-1ABAC843FEF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interpreter", "Interpreter\Interpreter.csproj", "{B66FA07F-B0B7-4D5C-8833-1ABAC843FEF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "Memento\Memento.csproj", "{DFA0E7CD-2BD1-4B7B-82BF-4749AB468BE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Memento", "Memento\Memento.csproj", "{DFA0E7CD-2BD1-4B7B-82BF-4749AB468BE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelForForEach", "ParallelForForEach\ParallelForForEach.csproj", "{215835E9-9088-4534-9E72-650098224C14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParallelForForEach", "ParallelForForEach\ParallelForForEach.csproj", "{215835E9-9088-4534-9E72-650098224C14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedClasses", "NestedClasses\NestedClasses.csproj", "{A1F78F16-EAAA-4818-BF45-063B18DA7F7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NestedClasses", "NestedClasses\NestedClasses.csproj", "{A1F78F16-EAAA-4818-BF45-063B18DA7F7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialClasses", "PartialClasses\PartialClasses.csproj", "{B56EC846-5B98-412B-BCCA-1EFC78EF9D0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartialClasses", "PartialClasses\PartialClasses.csproj", "{B56EC846-5B98-412B-BCCA-1EFC78EF9D0C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Disposable", "Disposable\Disposable.csproj", "{CD0C7657-D9D8-489E-8342-898D078754F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflection", "Reflection\Reflection.csproj", "{8CCAEEEB-0CA4-47D0-8615-C8DA5654D42D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -263,6 +267,14 @@ Global
 		{B56EC846-5B98-412B-BCCA-1EFC78EF9D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B56EC846-5B98-412B-BCCA-1EFC78EF9D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B56EC846-5B98-412B-BCCA-1EFC78EF9D0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD0C7657-D9D8-489E-8342-898D078754F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD0C7657-D9D8-489E-8342-898D078754F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD0C7657-D9D8-489E-8342-898D078754F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD0C7657-D9D8-489E-8342-898D078754F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CCAEEEB-0CA4-47D0-8615-C8DA5654D42D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CCAEEEB-0CA4-47D0-8615-C8DA5654D42D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CCAEEEB-0CA4-47D0-8615-C8DA5654D42D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CCAEEEB-0CA4-47D0-8615-C8DA5654D42D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
