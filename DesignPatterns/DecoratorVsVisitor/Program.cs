@@ -37,9 +37,7 @@ foreach (IItemElement item in items)
 
 Console.WriteLine("Total Tax: $" + totalTax);
 Console.WriteLine("Total Shipping: $" + totalShipping);
-// Output:
-// Total Tax: $22.6
-// Total Shipping: $29
+// Output: Total Tax: $22.6, Total Shipping: $29
 
 #region Decorator
 public interface ICoffee
