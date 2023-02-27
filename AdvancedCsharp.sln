@@ -107,9 +107,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecoratorVsVisitor", "Desig
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enumerator", "Enumerator\Enumerator.csproj", "{B0614426-D35B-4B57-93FB-05727C06AEFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xUnitTestProject", "xUnitTestProject\xUnitTestProject.csproj", "{4A7744BA-8505-4087-A43A-43A5FD022146}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xUnitTestProject", "xUnitTestProject\xUnitTestProject.csproj", "{4A7744BA-8505-4087-A43A-43A5FD022146}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Others", "Others\Others.csproj", "{D984A431-3174-49A2-89D3-09E5A6D624FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Others", "Others\Others.csproj", "{D984A431-3174-49A2-89D3-09E5A6D624FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriorityQueueExample", "PriorityQueue\PriorityQueueExample.csproj", "{18831B96-AC86-4C9D-805A-9F13557833AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -317,6 +319,10 @@ Global
 		{D984A431-3174-49A2-89D3-09E5A6D624FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D984A431-3174-49A2-89D3-09E5A6D624FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D984A431-3174-49A2-89D3-09E5A6D624FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18831B96-AC86-4C9D-805A-9F13557833AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18831B96-AC86-4C9D-805A-9F13557833AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18831B96-AC86-4C9D-805A-9F13557833AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18831B96-AC86-4C9D-805A-9F13557833AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
