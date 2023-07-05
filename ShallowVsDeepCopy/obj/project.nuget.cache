@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "C7Q2FjyZmCSa+xrodsB4okwZNFufafJxRBub3RYo6tokG5y/APIUOc7g01e1zqesmEBt980BIOmb7i2DlIauMg==",
+  "dgSpecHash": "eDBA3NNt0sF7EtYwTBXAmszq2B1jouPZ3ljcOKHKMiVaB4MAiaxT38R315piOfQVzQPApG9ndL/l8cIBUgS00Q==",
   "success": true,
   "projectFilePath": "F:\\PRACTICE\\AdvancedCsharp\\ShallowVsDeepCopy\\ShallowVsDeepCopy.csproj",
   "expectedPackageFiles": [

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "kfzvgY5WUoJpqS3kjI4DaUK3IxgcnSM60TBMzz6+Qp1mfVkATfYz0oUlLQFRnQhSuiBSP5LJHhfkutcRfn637w==",
+  "dgSpecHash": "s3nur+FWIFag/LCVgsJULGQsYiqFQeMcutP2BssLDunzRTMSk0XX4D34y2Hv8FZe+cWZ//hg5W1bzlSFhOMCTg==",
   "success": true,
   "projectFilePath": "F:\\PRACTICE\\AdvancedCsharp\\CsharpTen\\CsharpTen.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\XPS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\XPS\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\XPS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\XPS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
   "logs": []
 }
