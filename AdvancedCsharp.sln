@@ -113,7 +113,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Others", "Others\Others.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PriorityQueueExample", "PriorityQueue\PriorityQueueExample.csproj", "{18831B96-AC86-4C9D-805A-9F13557833AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp9_10_11_12", "Csharp11\Csharp9_10_11_12.csproj", "{3C065F2E-2C39-45D1-8EF0-62A84699D0BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Csharp9_10_11_12", "Csharp11\Csharp9_10_11_12.csproj", "{3C065F2E-2C39-45D1-8EF0-62A84699D0BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet8", "DotNet8\DotNet8.csproj", "{279D9C7A-D734-4468-9852-AF08D90B4C25}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -329,6 +331,10 @@ Global
 		{3C065F2E-2C39-45D1-8EF0-62A84699D0BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C065F2E-2C39-45D1-8EF0-62A84699D0BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C065F2E-2C39-45D1-8EF0-62A84699D0BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{279D9C7A-D734-4468-9852-AF08D90B4C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{279D9C7A-D734-4468-9852-AF08D90B4C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{279D9C7A-D734-4468-9852-AF08D90B4C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{279D9C7A-D734-4468-9852-AF08D90B4C25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
